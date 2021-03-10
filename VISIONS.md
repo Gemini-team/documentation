@@ -13,4 +13,8 @@ Using this as a ground base, Autonomous Agents can be deployed in the enviroment
 The internals workings of the agent can from this be studied without consequences for human lives and material compensations if something unfortunate where to happen.
 
 * Hydrodynamics
-* 
+* API to interact with vessels and the environment (Weather, Day/Night etc)
+* API to configure traffic scenarios
+* Support functionality needed to generate data related to training of Deep learning models
+* User interface to set up vessel configuration
+* The Gemini Simulator Platform will always be open-source to encourage trust in its implementation
