@@ -12,6 +12,8 @@ Gemini is thigtly connected to the open simulation platform to encourrage resear
 Using this as a ground base, Autonomous Agents can be deployed in the enviroment driven by component models from OSP and synthetic sensor data from Gemini. 
 The internals workings of the agent can from this be studied without consequences for human lives and material compensations if something unfortunate where to happen.
 
+## Roadmap Features
+
 * Hydrodynamics
 * API to interact with vessels and the environment (Weather, Day/Night etc)
 * API to configure traffic scenarios
