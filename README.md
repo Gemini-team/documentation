@@ -1,5 +1,7 @@
-# documentation
-Documents describing our Architecture and Visions
+# Documents describing out Visions and current Archtiecture
+* [VISIONS.md](https://github.com/Gemini-team/documentation/blob/master/VISIONS.md)
+* [ARCHITECTURE.md](https://github.com/Gemini-team/documentation/blob/master/VISIONS.md)
+
 
 Documents describing Sensor simulation:
 * [Kjetil's master thesis](https://folk.ntnu.no/edmundfo/msc2020-2021/vassteinMSc.pdf)
