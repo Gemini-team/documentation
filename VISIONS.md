@@ -8,7 +8,7 @@ At the moment Gemini has implemented 4 GPU accelerated EMR sensors of maritime i
 Using Geminis API, one is able to connect to external softwares. From this, software outside Gemini are able to model actions outside Unity
 In addition to making perceptions available by an autonomous agent
 
-Gemini is thigtly connected to the open simulation platform to encourrage researchers and Industry partners to share models with eachother. 
+Gemini is envisioning to support usage from the open simulation platform to encourage researchers and Industry partners to share models with eachother. 
 Using this as a ground base, Autonomous Agents can be deployed in the enviroment driven by component models from OSP and synthetic sensor data from Gemini. 
 The internals workings of the agent can from this be studied without consequences for human lives and material compensations if something unfortunate where to happen.
 
